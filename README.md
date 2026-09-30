@@ -1,6 +1,8 @@
 ## Hi, I'm Claudiu
 
-I'm a web developer based in Belgium. I build websites for small businesses and organisations: fast, multilingual, easy to use on a phone, and made to get visitors to call or get in touch.
+I'm a developer based in Belgium. I build websites and mobile apps for businesses: fast, multilingual, easy to use on a phone, and made to get customers to call or get in touch.
+
+<sub>Websites: Astro · Next.js · TypeScript · Mobile apps: React Native · Expo</sub>
 
 ---
 
@@ -29,4 +31,4 @@ I'm a web developer based in Belgium. I build websites for small businesses and 
 
 ---
 
-**Need a website for your business?** Write to me: [claudiu.dev@outlook.com](mailto:claudiu.dev@outlook.com)
+**Need a website or an app for your business?** Write to me: [claudiu.dev@outlook.com](mailto:claudiu.dev@outlook.com)

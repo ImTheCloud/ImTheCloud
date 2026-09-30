@@ -1,23 +1,32 @@
-<div align="center">
+## Hi, I'm Claudiu
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B3A5C&height=200&section=header&text=ImTheCloud&fontSize=48&fontColor=63E6FF&fontAlignY=38&desc=Software%20Developer&descAlignY=55&descSize=18&descColor=8B949E" width="100%" />
+I'm a web developer based in Belgium. I build websites for small businesses and organisations: fast, multilingual, easy to use on a phone, and made to get visitors to call or get in touch.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=63E6FF&background=0D1117&center=true&vCenter=true&width=560&lines=Software+Developer;Test+Automation+%C2%B7+Full-Stack+Development;JavaScript+%C2%B7+Java+%C2%B7+Python+%C2%B7+C%23;Building+reliable%2C+thoroughly+tested+software" alt="Typing SVG" />
+---
 
-</div>
+### Websites I've built
 
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://bsrenovesrl.com"><img src="assets/bs-renove.jpg" alt="BS Renove website: home page with a hand-drawn house in cross-section"></a>
+      <h4><a href="https://bsrenovesrl.com">BS Renove</a></h4>
+      Renovation company, Denderleeuw. Real before/after sliders from their building sites, one page per trade, and a quote request in two steps.<br><br>
+      <sub>Astro · French & Dutch · no cookies · <a href="https://github.com/ImTheCloud/bs-renove">code</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.betheldworp.be"><img src="assets/betheldworp.jpg" alt="Bethel Dworp website: home page with an aerial view of Dworp"></a>
+      <h4><a href="https://www.betheldworp.be">Bethel Dworp</a></h4>
+      Church community, Dworp. Weekly programme, events calendar, gallery and verse of the month, all updated by the church itself.<br><br>
+      <sub>Next.js · Firebase · 4 languages · <a href="https://github.com/ImTheCloud/betheldworp">code</a></sub>
+    </td>
+  </tr>
+</table>
 
-## About
+### Also
 
-I am a software developer based in Belgium, working across the full stack with a strong focus on JavaScript. My experience spans mobile application development and web application development, building interfaces and services that are both functional and reliable.
+- [**MacGestureControl**](https://github.com/ImTheCloud/MacGestureControl): trackpad gestures for macOS that stay out of the way of the ones macOS already gives you (Swift).
 
-<br>
+---
 
-## Skills
-
-<img src="https://skillicons.dev/icons?i=js,java,py,cs,react,django,dotnet,androidstudio,git&theme=dark" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5C,100:0D1117&height=100&section=footer" width="100%" />
+**Need a website for your business?** Write to me: [claudiu.dev@outlook.com](mailto:claudiu.dev@outlook.com)

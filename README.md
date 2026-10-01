@@ -13,7 +13,7 @@ I'm a developer based in Belgium. I build websites and mobile apps for businesse
     <td width="50%" valign="top">
       <a href="https://bsrenovesrl.com"><img src="assets/bs-renove.jpg" alt="BS Renove website: home page with a hand-drawn house in cross-section"></a>
       <h4><a href="https://bsrenovesrl.com">BS Renove</a></h4>
-      Renovation company, Denderleeuw. Real before/after sliders from their building sites, one page per trade, and a quote request in two steps.<br><br>
+      Renovation company, Welle. Real before/after sliders from their building sites, one page per trade, and a quote request in two steps.<br><br>
       <sub>Astro · French & Dutch · no cookies · <a href="https://github.com/ImTheCloud/bs-renove">code</a></sub>
     </td>
     <td width="50%" valign="top">

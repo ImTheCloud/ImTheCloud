@@ -30,7 +30,12 @@ I'm a developer based in Belgium. I build websites and mobile apps for businesse
       Facade renovation company, Halle. Real building sites, sliders that compare the work in progress with the finished facade, a map of Belgium and a quote request that sends the visitor's photos straight to their inbox.<br><br>
       <sub>Astro · Cloudflare · French & Dutch · no cookies · <a href="https://github.com/ImTheCloud/ely-facade">code</a></sub>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <a href="https://lindadenise.be"><img src="assets/linda-denise.jpg" alt="Linda Denise website: home page with a lotus pond and Tilleul, the orange cat"></a>
+      <h4><a href="https://lindadenise.be">Linda Denise</a></h4>
+      Hand-drawn art portfolio and shop, Belgium. Drawings and canvases, a cart that turns into a request, an admin Linda uses from her phone, and a game with the site's cat.<br><br>
+      <sub>Astro · Cloudflare · French & Dutch · no cookies</sub>
+    </td>
   </tr>
 </table>
 

@@ -23,6 +23,15 @@ I'm a developer based in Belgium. I build websites and mobile apps for businesse
       <sub>Next.js · Firebase · 4 languages · <a href="https://github.com/ImTheCloud/betheldworp">code</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://elyfacade.be"><img src="assets/ely-facade.jpg" alt="Ely Facade website: home page with a renovated white facade in Namur"></a>
+      <h4><a href="https://elyfacade.be">Ely Facade</a></h4>
+      Facade renovation company, Halle. Real building sites, sliders that compare the work in progress with the finished facade, a map of Belgium and a quote request that sends the visitor's photos straight to their inbox.<br><br>
+      <sub>Astro · Cloudflare · French & Dutch · no cookies · <a href="https://github.com/ImTheCloud/ely-facade">code</a></sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 ### Also
